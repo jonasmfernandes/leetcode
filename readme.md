@@ -1,3 +1,6 @@
+<img src="assets/leetcodeBanner.png">
+
+
 # Jornada de um dev Front-end Júnior ao Leetcode!
 
 Este projeto tem como intenção, documentar minha jornada de aprendizados e práticas de lógica de programação na plataforma Leetcode.
@@ -14,7 +17,7 @@ Este projeto tem como intenção, documentar minha jornada de aprendizados e pr�
 Desafios fáceis.
 ### #01 - Two Sum
 
-Objetivo:
+#### Objetivo:
 Encontrar dois números dentro do array "nums" que, somados, resultem em um valor específico "target".  O objetivo é retornar os índices desses dois números, e podemos presumir que só existe uma combinação possível no array para atingir o target.
 
 Aprendizados: 
@@ -30,6 +33,7 @@ Aprendizados:
   
 Solução:
 
+<img src="assets/twoSum.png">
 
 ## Autor 
 Desenvolvido por: Jonas Monteiro Fernandes.
