@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/leetcodeBannerv2.png" title="Logo do LeetCode" width="80%">
+  <img src="assets/leetcodeBannerv2.png" title="Logo do LeetCode" width="100%">
 </div>
 
 # Jornada de um dev Front-end Júnior ao Leetcode!
