@@ -1,4 +1,4 @@
-<img src="assets/leetcodeBanner.png">
+<img src="assets/leetcodeBannerv2.png">
 
 
 # Jornada de um dev Front-end Júnior ao Leetcode!
